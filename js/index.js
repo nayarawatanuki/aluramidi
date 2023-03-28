@@ -16,5 +16,17 @@ for(counter = 0; counter < keyList.length; counter++) {
     key.onclick = function() {
         playSound(audio__id);
     }
-    
+
+    key.onkeydown = function(event) {
+
+        if(event.code === "Space" || event.code === "Enter") {
+
+            key.classList.add("active");
+        }
+    }
+
+    key.onkeyup = function() {
+        key.classList.remove("active");
+    }
+
 }

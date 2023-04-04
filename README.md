@@ -1,5 +1,6 @@
 <h1 align="center">
-  Aluramidi - JAVASCRIPT
+  <img width="50px" style="vertical-align: bottom" src="https://raw.githubusercontent.com/nayarawatanuki/javascript__aluramidi/main/assets/img/favicon.png"> 
+  Alura MIDI 
 </h1>
 
 ### Índice
@@ -15,7 +16,7 @@
 </br>
 
 ## :pencil: Descrição do Projeto
-O projeto **[Aluramidi](https://nayarawatanuki.github.io/javascript__aluramidi/)**, é uma simples proposta de cadastros de negociações, contruída em `html`, `css` e `javascript`. 
+O projeto **[Alura MIDI](https://nayarawatanuki.github.io/javascript__aluramidi/)**, é uma simples proposta de cadastros de negociações, contruída em `html`, `css` e `javascript`. 
 Esse projeto contém o objetivo de aprender a manipular atributos e funções, aplicando boas práticas com `javascript`. 
 </br>Desenvolvido para o curso de **JAVASCRIPT PARA WEB: CRIE PÁGINAS DINÂMICAS** da plataforma [Alura](https://www.alura.com.br/).
 
@@ -92,11 +93,33 @@ Esse projeto contém o objetivo de aprender a manipular atributos e funções, a
   - Repetição otimizada com `for`:
     - Como é e como ela ajuda a ter um código mais limpo;
     - incrementar um valor de variável com o operador `++`.
+    
+  
+  - Eventos no teclado:
+    - O que são e como usá-los; 
+    - `onkeydown` e `onkeyup`; 
+    - Adicionar e remover classes em um elemento HTML através do JavaScript 
+      - funções `add()` e `remove()` do `classList`.
+  
+  - Condições no código e operadores lógicos:
+    - O que é o objeto `event`, como declarar e acessar ele através do parâmetro de uma função atrelada a um evento. 
+    - Estrutura condicional `if` e para que ele serve;
+    - Operadores: 
+      - igualdade `==` 
+      - estritamente igual `===`;
+      - or `||`.
+    
+  - Mais condições:
+    - A estruturas condicionais `if` e `else` juntas; 
+    - Operadores: 
+      - not equals `!=`; 
+      - and `&&`.
+    - valor null.
   
 </br>
 
 ## :open_file_folder: Acesso ao projeto
-Caso tenha interesse em visualizar o que foi realizado: [Aluramidi](https://nayarawatanuki.github.io/javascript__aluramidi/) 
+Caso tenha interesse em visualizar o que foi realizado: [Alura MIDI](https://nayarawatanuki.github.io/javascript__aluramidi/) 
 
 Ou, caso prefira baixá-lo clicando [aqui](https://github.com/nayarawatanuki/javascript__aluramidi/archive/refs/heads/main.zip).
 
@@ -112,9 +135,10 @@ Baixe o projeto clicando [aqui](https://github.com/nayarawatanuki/javascript__al
 </br>
 
 ## :keyboard: Tecnologias utilizadas
-![HTML, CSS e JS](https://raw.githubusercontent.com/nayarawatanuki/javascript__aluramidi/main/src/assets/img/readme/html-css-js.PNG)</br>
+![HTML, CSS e JS](https://raw.githubusercontent.com/nayarawatanuki/javascript__aluramidi/main/assets/img/readme/html-css-js.PNG)</br>
 
 </br>
 
 ## :woman_technologist: Desenvolvedor(a) do Projeto
 :star: [Nayara Watanuki](https://github.com/nayarawatanuki)
+

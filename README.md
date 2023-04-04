@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="50px" style="vertical-align: bottom" src="https://raw.githubusercontent.com/nayarawatanuki/javascript__aluramidi/main/assets/img/favicon.png"> 
+  <img width="50px" style="vertical-align: bottom" src="https://raw.githubusercontent.com/nayarawatanuki/javascript__aluramidi/main/assets/img/favicon.png#vitrinedev"> 
   Alura MIDI 
 </h1>
 

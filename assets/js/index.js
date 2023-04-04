@@ -4,7 +4,16 @@ const keyList = document.querySelectorAll(".key");
 
 function playSound(audioId) {
 
-    $(audioId).play();
+    // console.log($(audioId).localName)
+
+    if($(audioId) != null && $(audioId).localName === "audio") {
+
+        $(audioId).play();
+
+    } else {
+
+        alert("Elemento não encontrado.");
+    }
 }
 
 for(counter = 0; counter < keyList.length; counter++) {

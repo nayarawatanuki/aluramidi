@@ -16,7 +16,7 @@
 </br>
 
 ## :pencil: Descrição do Projeto
-O projeto **[Alura MIDI](https://nayarawatanuki.github.io/javascript__aluramidi/)**, é uma simples proposta de cadastros de negociações, contruída em `html`, `css` e `javascript`. 
+O projeto **[Alura MIDI](https://nayarawatanuki.github.io/javascript__aluramidi/)**, é um display de botões sonoros, contruída em `html`, `css` e `javascript`, com foco em `javascript`. 
 Esse projeto contém o objetivo de aprender a manipular atributos e funções, aplicando boas práticas com `javascript`. 
 </br>Desenvolvido para o curso de **JAVASCRIPT PARA WEB: CRIE PÁGINAS DINÂMICAS** da plataforma [Alura](https://www.alura.com.br/).
 
